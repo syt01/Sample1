@@ -1,5 +1,8 @@
 
 button {
+<<<<<<< HEAD
+    
+=======
     padding: 15px;
     background-color: #69f;
     border-radius: 15px;
@@ -21,4 +24,5 @@ button:active {
     border-color: #6ce;
     transition: background-color 0s;
     color: #999;
+>>>>>>> master
 }

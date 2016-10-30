@@ -1,0 +1,26 @@
+{
+  "name": "sy01",
+  "version": "1.0.0",
+  "description": "sample1",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test-all.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syt01/Sample1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syt01/Sample1/issues"
+  },
+  "homepage": "https://github.com/syt01/Sample1#readme",
+  "devDependencies": {
+    "@types/mocha": "^2.2.32",
+    "@types/power-assert": "^1.4.29",
+    "mocha": "^3.1.2",
+    "power-assert": "^1.4.1"
+  }
+}
