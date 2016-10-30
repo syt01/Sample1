@@ -20,4 +20,5 @@ button:active {
     background-color: #eff;
     border-color: #6ce;
     transition: background-color 0s;
+    color: #999;
 }
