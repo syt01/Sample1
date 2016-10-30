@@ -6,6 +6,6 @@ describe('sample', function () {
         assert(index_1.add(1, 3) === 4);
     });
     it("shoud sub", function () {
-        assert(index_1.sub(5, 3) === 1);
+        assert(index_1.sub(5, 4) === 1);
     });
 });

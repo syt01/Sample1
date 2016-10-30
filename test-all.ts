@@ -13,7 +13,7 @@ describe('sample', () => {
 
     it("shoud sub", () => {
 
-        assert(sub(5, 3) === 1);
+        assert(sub(5, 4) === 1);
 
     });
 
