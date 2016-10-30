@@ -1,4 +1,28 @@
 
 button {
+<<<<<<< HEAD
     
+=======
+    padding: 15px;
+    background-color: #69f;
+    border-radius: 15px;
+    border-width: 1;
+    border-color: #06e;
+    font-size: 1.5rem;
+    outline: none;
+    transition: background-color 0.4s;
+}
+
+button:hover {
+    background-color: #bef;
+    border-color: #6ce;
+    transition: background-color 0.2s;
+}
+
+button:active {
+    background-color: #eff;
+    border-color: #6ce;
+    transition: background-color 0s;
+    color: #999;
+>>>>>>> master
 }
