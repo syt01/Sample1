@@ -2,3 +2,9 @@ language: node_js
 node_js:
   - "6"
 
+sudo: false
+
+script:
+  - npm i -g typescript
+  - tsc
+  - npm test
